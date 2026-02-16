@@ -1,4 +1,4 @@
-|enabled |`no`
+|enable |`no`
 |Enable whitelist checking
 
 |socket                    |
